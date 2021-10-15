@@ -5,4 +5,7 @@
 ## Leave a Server
 
 * [Mac/PC](leave-a-server/mac-pc.md)
-* [Acknowledgments](leave-a-server/acknowledgments.md)
+
+***
+
+* [Acknowledgments](acknowledgments.md)
