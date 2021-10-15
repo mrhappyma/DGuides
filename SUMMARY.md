@@ -4,6 +4,7 @@
 
 ## Leave a Server
 
+* [Leave a Server](leave-a-server/index.html.md)
 * [Mac/PC](leave-a-server/mac-pc.md)
 
 ***
