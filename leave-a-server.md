@@ -1,5 +1,5 @@
 ---
-description: Get rid of a pesky server you don't want anymore
+description: Get rid of a pesky server you don't want anymore. More platforms coming soon.
 ---
 
 # 🚪 Leave a Server
@@ -10,7 +10,9 @@ description: Get rid of a pesky server you don't want anymore
 
 ![Hint: hit enter](https://spongebob.is-from.space/r/kuskib2li9a.png)
 
-2\. Find the server you want to leave. Click it. ![](https://spongebob.is-from.space/r/kusl02uyd9a.png)
+2\. Find the server you want to leave. Click it. 
+
+![](https://spongebob.is-from.space/r/kusl02uyd9a.png)
 
 3\. Click the little arrow to open the dropdown
 
